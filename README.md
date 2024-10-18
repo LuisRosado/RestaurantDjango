@@ -23,7 +23,7 @@ Los administradores pueden gestionar los elementos del menú a través de la int
 
 1. Clona el repositorio:
     ```bash
-    git clone [<URL_DEL_REPOSITORIO>](https://github.com/LuisRosado/RestaurantDjango/tree/main)
+    git clone (https://github.com/LuisRosado/RestaurantDjango/tree/main)
     ```
 2. Navega al directorio del proyecto:
     ```bash

@@ -52,6 +52,9 @@ Los administradores pueden gestionar los elementos del menú a través de la int
 - Accede a la aplicación en tu navegador en `http://127.0.0.1:8000/`.
 - Para acceder a la interfaz de administración, ve a `http://127.0.0.1:8000/admin/` y usa las credenciales de administrador.
 
+![Little-Lemon-Personal_-Microsoft_-Edge-2024-10-18-17-39-15](https://github.com/user-attachments/assets/2745b323-54a8-4856-b886-64cd6ffa6fdb)
+
+
 ## Contribución
 
 Si deseas contribuir a este proyecto, por favor sigue estos pasos:

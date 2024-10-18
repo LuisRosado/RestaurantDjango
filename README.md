@@ -11,14 +11,6 @@ La aplicación permite a los usuarios:
 
 Los administradores pueden gestionar los elementos del menú a través de la interfaz de administración de Django.
 
-## Estructura del Proyecto
-
-- **urls.py**: Configura las rutas URL de la aplicación principal.
-- **views.py**: Define las vistas para la aplicación `restaurant`.
-- **models.py**: Define los modelos de datos para la aplicación `restaurant`.
-- **wsgi.py**: Configuración WSGI para el despliegue de la aplicación Django.
-- **admin.py**: Registra los modelos en el sitio de administración de Django.
-
 ## Instalación
 
 1. Clona el repositorio:
